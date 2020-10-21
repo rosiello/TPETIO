@@ -1,7 +1,7 @@
 {include file="header.tpl"}
 <div class="container">
     <figure class="figure">
-        <img class="figure-img img-fluid" src="img/cabeza.jpg" alt="">
+        <img class="figure-img img-fluid" src="img/encabezar.jpg" alt="">
     </figure>
     <form>
         <div class="form-group">
