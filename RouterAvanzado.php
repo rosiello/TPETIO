@@ -20,7 +20,7 @@ $r->addRoute("artistas", "GET", "Controller","artistas");
   
   //////////////////DEFAULT/////////////////////
 $r->route($_GET['action'], $_SERVER['REQUEST_METHOD']);
-$r->setDefaultRoute("Controller", "home");
+$r->setDefaultRoute("Controller", "Home");
 
 
 
