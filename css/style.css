@@ -4,3 +4,6 @@ body {
 a {
     list-style: armenian;
 }
+tl{
+    scrollbar-shadow-color: brown;
+}
