@@ -4,7 +4,7 @@
     <div class="col bg-success  ">
         <figure class="figure  ">
             <img class="figure-img img-fluid rounded " src="img/school.jpg" alt="">
-            <figcaption class="figure-caption">Nuevas formas de aprendizaje</figcaption>
+            <figcaption class="figure-caption bg-light border">Nuevas formas de aprendizaje</figcaption>
         </figure>
     </div>
     <div class="col bg-light align-self-center ">
@@ -17,23 +17,23 @@
       
     </div>
 </div>
-<div class="row bg-warning">
+<div class="resaltado row bg-warning">
     <div class="col">
         <figure class="figure">
             <img class="figure-img img-fluid rounded" src="img/3.jpg" alt="">
-            <figcaption class="figure-caption">Pintura de....</figcaption>
+            <figcaption class="bg-light figure-caption border">ALMA DEL CIELO</figcaption>
         </figure>
     </div>
     <div class="col bg-primary">
         <figure class="figure">
             <img class="figure-img img-fluid rounded" src="img/2.jpg" alt="">
-            <figcaption class="figure-caption  font-light">Pintura de....</figcaption>
+            <figcaption class="figure-caption  bg-light border">CENTRO DE TANDIL</figcaption>
         </figure>
     </div>
     <div class="col bg-info">
         <figure class="figure">
             <img class="figure-img img-fluid rounded" src="img/1.jpg" alt="">
-            <figcaption class="figure-caption">Pintura de....</figcaption>
+            <figcaption class="figure-caption bg-light border">MEDITE</figcaption>
         </figure>
     </div>
 </div>
