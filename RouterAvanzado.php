@@ -9,7 +9,7 @@ define ("BASE_URL", '//'.$_SERVER["SERVER_NAME"] . ':' . $_SERVER["SERVER_PORT"]
 $r = new Router();
 
 //Navegacion//
-$r->addRoute("home", "GET","Controller","home"); 
+$r->addRoute("HOME", "GET","Controller","home"); 
 $r->addRoute("galeria", "GET","Controller","galeria");
 $r->addRoute("tecnicas", "GET","Controller","tecnicas");
 $r->addRoute("nosotros", "GET","Controller","nosotros");
