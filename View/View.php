@@ -20,7 +20,7 @@ require_once "libs/Smarty.class.php";
         function showNosotros(){
             $smarty = new Smarty();
             $smarty->assign("titulo","Me gusta el arte");
-            $smarty->display("templates/nosotros.tpl");
+            $smarty->display("templates/nosotres.tpl");
         }
         function showTecnicas(){
             $smarty = new Smarty();
