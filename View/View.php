@@ -34,7 +34,7 @@ require_once "libs/Smarty.class.php";
         }
         function showArtistas(){
             $smarty = new Smarty();
-            $smarty->assign("titulo","Viva el arte");
+            $smarty->assign("titulo","El arte vive en nosotrxs");
             $smarty->display("templates/artistas.tpl");
             
         }
