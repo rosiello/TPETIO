@@ -9,22 +9,22 @@
     <div class="carousel-item active">
       <img src="img/us3.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+        <h5>Fernando Palomo</h5>
+        <p>Master en tinta china</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="img/us22.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <h5>Arturo Filippa</h5>
+        <p>Licenciado en caligrafia china</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="img/us11.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+        <h5>Irma Valencia</h5>
+        <p>Doctorado en artes del chi.</p>
       </div>
     </div>
   </div>
