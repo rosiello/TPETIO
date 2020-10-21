@@ -24,4 +24,8 @@ class controller{
     function login(){
         $this->view->showLogin();
     }
+    
+    function artistas(){
+        $this->view->showArtistas();
+    }
 }
