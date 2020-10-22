@@ -2,7 +2,7 @@
 require_once "./RouterAvanzado.php";
 require_once "View/View.php";
 
-class controller{
+class Controller{
     private $view;
 
     public function __construct(){
