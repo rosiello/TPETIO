@@ -1,0 +1,140 @@
+[33mcommit 17356df32cb7e5463f2d8a1ff98ff18baef3c1a2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Cristian Amici <cristianamici@gmail.com>
+Date:   Wed Oct 21 19:10:24 2020 -0300
+
+    Borre la carpeta de las fotos de tio porque me pinto
+
+[33mcommit df4a6e0766f6a9e318c8486c222526369d103546[m
+Author: Cristian Amici <cristianamici@gmail.com>
+Date:   Wed Oct 21 18:58:03 2020 -0300
+
+    foto de TPE
+
+[33mcommit 2d149663e1974962c89179316569d783d11861fe[m
+Author: Facundo De Luca <faku.dl@gmail.com>
+Date:   Wed Oct 21 18:50:02 2020 -0300
+
+    Archivo nombre cambiado
+
+[33mcommit 795e1189fb50642c0d58bb8eea4ef863f48ea626[m
+Merge: de13f3a 75eabfe
+Author: Facundo De Luca <faku.dl@gmail.com>
+Date:   Wed Oct 21 18:25:24 2020 -0300
+
+    Merge branch 'master' of https://github.com/rosiello/TPETIO into master
+
+[33mcommit de13f3aec77acf9f455350563e64ae3c5f869df4[m
+Author: Facundo De Luca <faku.dl@gmail.com>
+Date:   Wed Oct 21 18:24:59 2020 -0300
+
+    bestbranchNow
+
+[33mcommit 75eabfe8b86ab1739f1a3d873acec5e8eb32f996[m
+Author: Luis Rosiello <rosiello.paco@gmail.com>
+Date:   Wed Oct 21 18:21:55 2020 -0300
+
+    cambia nombre de archivo de encabezado
+
+[33mcommit 20988c48150d4c4f999d9ed828725970a0a5489c[m
+Merge: e7db87a 6a80434
+Author: Maximiliano Otharan <maxileonel.oth@gmail.com>
+Date:   Wed Oct 21 18:02:01 2020 -0300
+
+    Merge branch 'master' of https://github.com/rosiello/TPETIO into master
+
+[33mcommit 6a80434cd390ee30121a793ebd2df76d9d45ad5a[m
+Merge: 0fca447 5a2220e
+Author: Facundo De Luca <faku.dl@gmail.com>
+Date:   Wed Oct 21 18:00:40 2020 -0300
+
+    Merge branch 'master' of https://github.com/rosiello/TPETIO into master
+
+[33mcommit 0fca447be62d7a899a15f6f4d5828e2dbc167311[m[33m ([m[1;31morigin/laRamaDeBirnak[m[33m)[m
+Author: Facundo De Luca <faku.dl@gmail.com>
+Date:   Wed Oct 21 17:59:15 2020 -0300
+
+    ultimos cambios al css.careta
+
+[33mcommit e7db87a8ccf7f1a93d69dd710181db143af4cc5c[m[33m ([m[1;31morigin/maxiLeonel[m[33m)[m
+Author: Maximiliano Otharan <maxileonel.oth@gmail.com>
+Date:   Wed Oct 21 17:55:40 2020 -0300
+
+    nuevo arreglo inclusivo
+
+[33mcommit b2034e1834f196cbbe23d80cd8553792269bd956[m
+Author: Facundo De Luca <faku.dl@gmail.com>
+Date:   Wed Oct 21 17:53:45 2020 -0300
+
+    UltimaModificacion.Final
+
+[33mcommit a3a0769cb6a3e78e5daa10f063324ae121b68a26[m
+Author: Maximiliano Otharan <maxileonel.oth@gmail.com>
+Date:   Wed Oct 21 17:52:47 2020 -0300
+
+    arreglo inclusivo
+
+[33mcommit 1368f16673c9ba61b6da482d5f68c23bdebcdc74[m
+Author: Maximiliano Otharan <maxileonel.oth@gmail.com>
+Date:   Wed Oct 21 17:51:37 2020 -0300
+
+    cambio en el smarty nuevamente
+
+[33mcommit dd05d9f0557c00ab8dd6f2a9be49c39fc0913a26[m
+Author: Facundo De Luca <faku.dl@gmail.com>
+Date:   Wed Oct 21 17:49:03 2020 -0300
+
+    agrégué los colores de azul y oro. BoquitaElMasGrande
+
+[33mcommit 1161267f2ce41224c1452975921afd827764068c[m
+Author: Maximiliano Otharan <maxileonel.oth@gmail.com>
+Date:   Wed Oct 21 17:48:59 2020 -0300
+
+    modifique smarty
+
+[33mcommit 5a2220e682dc55879f460417307d37372bf9b2b5[m[33m ([m[1;31morigin/fortress[m[33m)[m
+Author: Cristian Amici <cristianamici@gmail.com>
+Date:   Wed Oct 21 17:43:17 2020 -0300
+
+    borre el HTML que no sirve para nada ahora
+
+[33mcommit 61ca207aa600e36c931f88deb7cce3387f12884d[m
+Author: Facundo De Luca <faku.dl@gmail.com>
+Date:   Wed Oct 21 17:32:55 2020 -0300
+
+    JS y CSS modificados por mí (Birnak, el +Mejor)
+
+[33mcommit 451b5ea33565e7a16995fddcdc70e3d40d3106c7[m
+Author: Facundo De Luca <faku.dl@gmail.com>
+Date:   Wed Oct 21 17:26:25 2020 -0300
+
+    css y js
+
+[33mcommit 336ecb3dc554772c872d8cffcf3e231239682a15[m
+Author: Luis Rosiello <rosiello.paco@gmail.com>
+Date:   Wed Oct 21 17:20:36 2020 -0300
+
+    modificacion de epigrafes de fotos
+
+[33mcommit 3c80e9c5618eb132ddc7a1a9b2d45bf67edc2a7c[m
+Author: Cristian Amici <cristianamici@gmail.com>
+Date:   Wed Oct 21 16:02:37 2020 -0300
+
+    agrege la seccion de artistas en las clases controller Router y View
+
+[33mcommit 2f3a9a6a3b1057ae1538d895a0971efa5fdd5539[m
+Author: Maximiliano Otharan <maxileonel.oth@gmail.com>
+Date:   Wed Oct 21 15:31:22 2020 -0300
+
+    Cambie partes del html
+
+[33mcommit a98d7ffa1879b7a68fa769a1651459c74d1a53c4[m
+Author: Luis Rosiello <rosiello.paco@gmail.com>
+Date:   Mon Oct 19 22:14:40 2020 -0300
+
+    Correccion de imagenes inicial
+
+[33mcommit c97de35255a2c489e3ef8a712431a76fb41decae[m
+Author: Luis Rosiello <rosiello.paco@gmail.com>
+Date:   Mon Oct 19 22:03:18 2020 -0300
+
+    Creacion de base de pagina web
