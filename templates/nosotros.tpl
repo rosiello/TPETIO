@@ -7,7 +7,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/us3.jpg" class="d-block w-100" alt="...">
+      <img src="img/us33.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Fernando Palomo</h5>
         <p>Master en tinta china</p>
